@@ -84,7 +84,7 @@ def show_registration_form():
 init_db()
 
 # Streamlit App
-st.title("M Messenger")
+st.title("Messenger")
 
 # Initialisieren der Session State Variablen
 if 'username' not in st.session_state:
