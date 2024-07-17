@@ -2,7 +2,7 @@
 """
 Created on Tue Jul 16 14:17:36 2024
 
-@author: mikym
+
 """
 
 import streamlit as st
